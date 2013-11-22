@@ -1,0 +1,15 @@
+{
+  "name": "userdown",
+  "version": "0.1.1",
+  "description": "Run node with Stepping Down user permissions",
+  "dependencies": {},
+  "bin": {
+    "userdown": "./bin/userdown"
+  },
+  "author": "Arunoda Susiripala <arunoda.susiripala@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arunoda/laika.git"
+  },
+  "license": "MIT"
+}
