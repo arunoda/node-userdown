@@ -1,6 +1,6 @@
 {
   "name": "userdown",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Run node apps with stepping down user permissions",
   "dependencies": {},
   "bin": {
